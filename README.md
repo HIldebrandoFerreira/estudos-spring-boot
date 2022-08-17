@@ -1,1 +1,1 @@
-# estudos-spring-boot
+Espaço reservado para estudos de aplicações com spring e spring boot.
